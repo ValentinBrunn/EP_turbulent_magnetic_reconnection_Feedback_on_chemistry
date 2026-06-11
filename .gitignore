@@ -1,0 +1,6 @@
+.DS_Store
+.ipynb_checkpoints/
+
+# Local model outputs and restart files are too large for GitHub and stay out of version control.
+PMODELS/
+prodimopy/
